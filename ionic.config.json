@@ -1,5 +1,14 @@
 {
   "name": "Ionic FaceID",
-  "integrations": {},
+  "integrations": {
+    "enterprise": {
+      "keyId": 1751,
+      "productKey": "key_390e51b4a0cb4fd8b367e85dc0f64aca",
+      "appId": "2a9ef0a6",
+      "registries": [
+        "@ionic-enterprise;https://registry.ionicframework.com/"
+      ]
+    }
+  },
   "type": "angular"
 }
