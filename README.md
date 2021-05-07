@@ -1,1 +1,1 @@
-# ionic-face-id
+# Ionic FaceID
